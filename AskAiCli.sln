@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskAiCli", "AskAiCli\AskAiCli.csproj", "{21478732-4F8E-42E1-A01D-53E9A80EBF33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21478732-4F8E-42E1-A01D-53E9A80EBF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21478732-4F8E-42E1-A01D-53E9A80EBF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21478732-4F8E-42E1-A01D-53E9A80EBF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21478732-4F8E-42E1-A01D-53E9A80EBF33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
